@@ -23,7 +23,7 @@ Please add your own. :smile:
 
 * [clippy](https://github.com/Manishearth/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code.
 * [Patterns](https://github.com/nrc/patterns/) - A catalogue of Rust design patterns.
-
+* [rust-api-guidelines](https://github.com/brson/rust-api-guidelines) - An extensive list of recommendations for idiomatic Rust APIs.
 
 ## License
 
