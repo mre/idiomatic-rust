@@ -1,7 +1,8 @@
 ![Logo](idiomatic-rust.png)
 
-This repository collects resources for writing clean, idiomatic Rust code.
-Please add your own. :smile:
+This repository collects resources for writing clean, idiomatic Rust code. Please bring your own. :blush:
+
+> *Idiomatic* coding means following the conventions of a given language. It is the most concise, convenient, and common way of accomplishing a task in that language, rather than forcing it to work in a way the author is familiar with from a different language. - Adapted from [Tim Mansfield](https://github.com/tim-hr/stuff/wiki/Idiomatic-coding)
 
 ## Articles
 
