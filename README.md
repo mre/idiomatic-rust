@@ -1,7 +1,7 @@
 # Idiomatic Rust
 
 This repository collects resources for writing clean, idiomatic Rust code.
-Please add your own. :simple_smile:
+Please add your own. :smile:
 
 ## Articles
 
