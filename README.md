@@ -1,4 +1,4 @@
-# Idiomatic Rust
+![Logo](idiomatic-rust.png)
 
 This repository collects resources for writing clean, idiomatic Rust code.
 Please add your own. :simple_smile:
