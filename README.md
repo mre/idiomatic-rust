@@ -20,6 +20,12 @@ This repository collects resources for writing clean, idiomatic Rust code. Pleas
 
 * [Rust traits for developer friendly libraries](http://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/) by [@benashford](https://github.com/benashford) - Thoughts about implementing good Rust libraries.
 
+## Talks
+
+###  2017
+
+[Idiomatic Rust Libraries](https://killercup.github.io/rustfest-idiomatic-libs/index.html#/) by [@killercup](https://github.com/killercup)
+
 ## Projects
 
 * [clippy](https://github.com/Manishearth/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code.
