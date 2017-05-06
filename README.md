@@ -30,6 +30,7 @@ This repository collects resources for writing clean, idiomatic Rust code. Pleas
 
 * [clippy](https://github.com/Manishearth/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code.
 * [Patterns](https://github.com/nrc/patterns/) - A catalogue of Rust design patterns.
+* [Rust Cookbook](https://github.com/brson/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
 * [rust-api-guidelines](https://github.com/brson/rust-api-guidelines) - An extensive list of recommendations for idiomatic Rust APIs.
 
 ## License
