@@ -33,6 +33,7 @@ What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtub
 
 * [clippy](https://github.com/Manishearth/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code.
 * [Patterns](https://github.com/nrc/patterns/) - A catalogue of Rust design patterns.
+* [Rust by Example](http://rustbyexample.com/) - A community driven collection of example code which follow Rust best practices.
 * [Rust Cookbook](https://github.com/brson/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
 * [rust-api-guidelines](https://github.com/brson/rust-api-guidelines) - An extensive list of recommendations for idiomatic Rust APIs.
 
