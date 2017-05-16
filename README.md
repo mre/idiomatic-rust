@@ -18,6 +18,8 @@ This repository collects resources for writing clean, idiomatic Rust code. Pleas
 * [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/) by [@hoverbear](https://github.com/Hoverbear) - How to represent a State Machine in an expressive and understandable way in Rust.
 * [Ripgrep Code Review](http://blog.mbrt.it/2016-12-01-ripgrep-code-review/) by [@mbrt](https://github.com/mbrt) - An analysis of the popular `ripgrep` tool's source code.
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) by [@llogiq](https://github.com/llogiq/) - Small things that make for rustic code.
+* [Convenient and idiomatic conversions in Rust](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust) by [meqif](https://github.com/meqif) - Explains `From<T>`, `Into<T>`, `TryFrom<T>`, `TryInto<T>`, `AsRef<T>` and `AsMut<T>` with pratical examples.
+
 
 ### 2015
 
