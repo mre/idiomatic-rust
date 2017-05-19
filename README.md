@@ -25,6 +25,11 @@ This repository collects resources for writing clean, idiomatic Rust code. Pleas
 
 * [Rust traits for developer friendly libraries](http://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/) by [@benashford](https://github.com/benashford) - Thoughts about implementing good Rust libraries.
 * [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) by [@BurntSushi](https://github.com/BurntSushi) - Understanding and handling errors in Rust in an idiomatic way.
+* [Creating a Rust function that accepts String or &str](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html) by [@hjr](https://github.com/hjr3) - How to make calling your code both ergonomic and fast (zero-allocation).
+* [Creating a Rust function that returns a &str or String](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html) by [@hjr](https://github.com/hjr3) - How `Into` and `Cow` (Clone-on-write) work together to avoid allocations for string types.
+* [Effectively Using Iterators In Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html) by [@hjr](https://github.com/hjr3) - Explanation of the `Iter` and `IntoIter` traits and how loops actually work in Rust.
+* [Strategies for solving 'cannot move out of' borrowing errors in Rust](http://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html) by [@hjr](https://github.com/hjr3) - Practical tips to help understand the borrow-checker and move semantics.
+
 
 ## Talks
 
