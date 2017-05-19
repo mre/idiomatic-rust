@@ -41,6 +41,14 @@ What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtub
 * [Rust Cookbook](https://github.com/brson/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
 * [rust-api-guidelines](https://github.com/brson/rust-api-guidelines) - An extensive list of recommendations for idiomatic Rust APIs.
 
+## History
+
+Coming from Python I loved to have some guidelines on how "idiomatic Python" looks like. I was inspired by the likes of Peter Norvig, who wrote this amazing article about spellchecker for example: http://norvig.com/spell-correct.html.
+And, of course, the [Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+
+The goal is to have a peer-reviewed collection of articles/talks/repos which teach idiomatic Rust style. It's a community project.
+If this becomes a thing I plan to move it to some "semi-official" place like rust-nursery or so. But first I need YOUR help for that ;-)
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
