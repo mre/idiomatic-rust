@@ -9,6 +9,9 @@ This repository collects resources for writing clean, idiomatic Rust code. Pleas
 ###  2017
 
 * [Lessons learned redesigning and refactoring a Rust Library](https://mgattozzi.com/refactor-rust) by [@mgattozzi](https://github.com/mgattozzi) - `RefCell`, the builder pattern and more.
+* [Math with distances in Rust: safety and correctness across units](https://ferrisellis.com/posts/rust-implementing-units-for-types/) by [@code-ape](https://github.com/code-ape) - How to create a system to cleanly and safely do arithmetic with lengths.
+* [The balance between cost, useability and soundness in C bindings, and Rust-SDL2&#39;s release](https://cobrand.github.io/rust/sdl2/2017/05/07/the-balance-between-soundness-cost-useability.html) by [@Cobrand](https://github.com/Cobrand) - Writing safe, sound, idiomatic libraries despite the limitations of the borrow checker.
+* [Coroutines and Rust - The Rust Programming Language Forum](https://users.rust-lang.org/t/coroutines-and-rust/9058) by [@krstoff](https://github.com/krstoff) - Discussing the pitfalls when trying to elegantly express coroutines in Rust.  
 
 ### 2016
 
@@ -29,6 +32,7 @@ This repository collects resources for writing clean, idiomatic Rust code. Pleas
 * [Creating a Rust function that returns a &str or String](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html) by [@hjr](https://github.com/hjr3) - How `Into` and `Cow` (Clone-on-write) work together to avoid allocations for string types.
 * [Effectively Using Iterators In Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html) by [@hjr](https://github.com/hjr3) - Explanation of the `Iter` and `IntoIter` traits and how loops actually work in Rust.
 * [Strategies for solving 'cannot move out of' borrowing errors in Rust](http://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html) by [@hjr](https://github.com/hjr3) - Practical tips to help understand the borrow-checker and move semantics.
+* [Rayon: data parallelism in Rust](http://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/) by [@nikomatsakis](https://github.com/nikomatsakis) - Writing elegant parallel code in Rust.
 
 
 ## Talks
