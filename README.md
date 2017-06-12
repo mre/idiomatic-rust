@@ -54,6 +54,7 @@ What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtub
 ### 2017
 
 * [Which is more idiomatic? Functional, imperative or a mix?](https://users.rust-lang.org/t/which-is-more-idiomatic-functional-imperative-or-a-mix/11278)
+* [An idiomatic way to sum up values in a multidimensional Array](https://users.rust-lang.org/t/an-idiomatic-way-to-sum-up-values-in-a-multidimensional-array/9485)
 
 ## History
 
