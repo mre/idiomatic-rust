@@ -60,11 +60,10 @@ What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtub
 
 ## History
 
-Coming from Python I loved to have some guidelines on how "idiomatic Python" looks like. I was inspired by the likes of Peter Norvig, who wrote amazing articles about [spellchecker](http://norvig.com/spell-correct.html) and [sudoku solvers](http://norvig.com/sudoku.html).
+Coming from Python I loved to have some guidelines on how "idiomatic Python" looks like. I was inspired by the likes of Peter Norvig, who wrote amazing articles on [spellcheckers](http://norvig.com/spell-correct.html) and [sudoku solvers](http://norvig.com/sudoku.html).
 And, of course, the [Zen of Python](https://www.python.org/dev/peps/pep-0020/).
 
-The goal is to have a peer-reviewed collection of articles/talks/repos which teach idiomatic Rust style. It's a community project.
-If this becomes a thing I plan to move it to some "semi-official" place like rust-nursery or so. But first I need YOUR help for that ;-)
+The goal of this project is to create a peer-reviewed collection of articles/talks/repos which teach idiomatic Rust style. It's a community project. If this becomes a thing I plan to move it to some "semi-official" place like rust-nursery or so. But first I need YOUR help for that ;-)
 
 ## License
 
