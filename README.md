@@ -21,6 +21,8 @@ This repository collects resources for writing clean, idiomatic Rust code. Pleas
 * [Ripgrep Code Review](http://blog.mbrt.it/2016-12-01-ripgrep-code-review/) by [@mbrt](https://github.com/mbrt) - An analysis of the popular `ripgrep` tool's source code.
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) by [@llogiq](https://github.com/llogiq/) - Small things that make for rustic code.
 * [Convenient and idiomatic conversions in Rust](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust) by [meqif](https://github.com/meqif) - Explains `From<T>`, `Into<T>`, `TryFrom<T>`, `TryInto<T>`, `AsRef<T>` and `AsMut<T>` with pratical examples.
+* [Idiomatic tree and graph like structures in Rust](https://rust-leipzig.github.io/architecture/2016/12/20/idiomatic-trees-in-rust/) by [saschagrunert](https://github.com/saschagrunert) - Introduction to safe, dynamic, arena based tree structures without using lifetimes.
+
 
 
 ### 2015
