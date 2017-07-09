@@ -44,7 +44,7 @@ Idiomatic Rust Libraries [[Video](https://www.youtube.com/watch?v=0zOg8_B71gE)] 
 What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtube.com/watch?v=rrtJh1kz1Ms)] [[Slides](https://speakerdeck.com/mre/whats-so-hard-about-writing-a-slack-client-in-rust)] by [@mre](https://github.com/mre) - Rust Cologne Meetup
 
 ## Projects
-
+* [Rust Anthology](https://github.com/brson/rust-anthology) - The best short-form writing about Rust, collected.
 * [clippy](https://github.com/Manishearth/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code.
 * [Patterns](https://github.com/nrc/patterns/) - A catalogue of Rust design patterns.
 * [Rust by Example](http://rustbyexample.com/) - A community driven collection of example code which follow Rust best practices.
