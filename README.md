@@ -38,9 +38,13 @@ This repository collects resources for writing clean, idiomatic Rust code. Pleas
 
 ## Talks
 
+### 2018
+
+Idiomatic Rust - Writing Concise and Elegant Rust Code [[Video](https://ftp.heanet.ie/mirrors/fosdem-video/2018/H.2214/rust_idiomatic.mp4)] [[Slides](https://speakerdeck.com/mre/idiomatic-rust-writing-concise-and-elegant-rust-code)] by [@mre](https://github.com/mre) - FOSDEM 2018
+
 ###  2017
 
-Idiomatic Rust Libraries [[Video](https://www.youtube.com/watch?v=0zOg8_B71gE)] [[Slides](https://killercup.github.io/rustfest-idiomatic-libs/index.html#/)] by [@killercup](https://github.com/killercup)  - Rustfest Kiev  
+Idiomatic Rust Libraries [[Video](https://www.youtube.com/watch?v=0zOg8_B71gE)] [[Slides](https://killercup.github.io/rustfest-idiomatic-libs/index.html#/)] by [@killercup](https://github.com/killercup) - Rustfest Kiev  
 What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtube.com/watch?v=rrtJh1kz1Ms)] [[Slides](https://speakerdeck.com/mre/whats-so-hard-about-writing-a-slack-client-in-rust)] by [@mre](https://github.com/mre) - Rust Cologne Meetup
 
 ## Projects
