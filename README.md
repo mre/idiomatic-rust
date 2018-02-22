@@ -6,6 +6,10 @@ This repository collects resources for writing clean, idiomatic Rust code. Pleas
 
 ## Articles
 
+### 2018
+
+* [Programming an ARM microcontroller in Rust at four different levels of abstraction](http://pramode.in/2018/02/20/programming-a-microcontroller-in-rust-at-four-levels-of-abstraction/) by [Pramode C.E ](http://pramode.in/about/) - Demonstrates how Rust helps to move from brittle, low-level embedded code to high-level abstractions with zero cost.
+
 ###  2017
 
 * [Lessons learned redesigning and refactoring a Rust Library](https://mgattozzi.com/refactor-rust) by [@mgattozzi](https://github.com/mgattozzi) - `RefCell`, the builder pattern and more.
