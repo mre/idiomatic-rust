@@ -1,3 +1,5 @@
+**Thanks for helping out!** :tada:
+
 Please feel free to open a pull request if you know of a good article/talk/rescource about idiomatic Rust,  
 that is not mentioned here.  
 
@@ -17,5 +19,3 @@ How to add new talks/videos:
 
 
 If you're unsure, just create a pull request or create a new issue and we can decide together.
-
-**Thanks for helping out!** :tada:
