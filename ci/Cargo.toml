@@ -1,0 +1,13 @@
+[package]
+name = "ci"
+version = "0.1.0"
+authors = ["Matthias Endler <matthias-endler@gmx.net>"]
+
+[dependencies]
+futures = "0.1.25"
+reqwest = "0.9.5"
+serde = "1.0.80"
+tokio = "0.1.11"
+serde_derive = "1.0.80"
+serde_json = "1.0.33"
+tokio-core = "0.1.17"
