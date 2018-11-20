@@ -10,7 +10,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 * [Programming an ARM microcontroller in Rust at four different levels of abstraction](http://pramode.in/2018/02/20/programming-a-microcontroller-in-rust-at-four-levels-of-abstraction/) by [Pramode C.E ](http://pramode.in/about/) - Demonstrates how Rust helps to move from brittle, low-level embedded code to high-level abstractions with zero cost.
 
-* [Discover the world of microcontrollers through Rust!](https://rust-embedded.github.io/discovery/README.html) - This book is an introductory course on microcontroller-based embedded systems that uses Rust as the teaching language rather than the usual C/C++.
+* [Discover the world of microcontrollers through Rust!](https://rust-embedded.github.io/discovery/) - This book is an introductory course on microcontroller-based embedded systems that uses Rust as the teaching language rather than the usual C/C++.
 
 ###  2017
 
