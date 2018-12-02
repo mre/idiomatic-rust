@@ -2,5 +2,4 @@ services:
   - docker
 
 script:
-  - cd ci
-  - docker run -v `pwd`/README.md:/app/README.md mre0/idiomatic-rust-ci README.md
+  - docker run -v `pwd`/ci/README.md:/app/README.md mre0/idiomatic-rust-ci README.md
