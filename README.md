@@ -1,4 +1,3 @@
-![Logo](idiomatic-rust.png)
 
 This repository collects resources for writing clean, idiomatic Rust code. [Please bring your own.](https://github.com/mre/idiomatic-rust/blob/master/CONTRIBUTING.md) :blush:
 
@@ -29,8 +28,6 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Convenient and idiomatic conversions in Rust](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust) by [meqif](https://github.com/meqif) - Explains `From<T>`, `Into<T>`, `TryFrom<T>`, `TryInto<T>`, `AsRef<T>` and `AsMut<T>` with pratical examples.
 * [Idiomatic tree and graph like structures in Rust](https://rust-leipzig.github.io/architecture/2016/12/20/idiomatic-trees-in-rust/) by [saschagrunert](https://github.com/saschagrunert) - Introduction to safe, dynamic, arena based tree structures without using lifetimes.
 
-
-
 ### 2015
 
 * [Rust traits for developer friendly libraries](http://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/) by [@benashford](https://github.com/benashford) - Thoughts about implementing good Rust libraries.
@@ -40,7 +37,6 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Effectively Using Iterators In Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html) by [@hjr](https://github.com/hjr3) - Explanation of the `Iter` and `IntoIter` traits and how loops actually work in Rust.
 * [Strategies for solving 'cannot move out of' borrowing errors in Rust](http://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html) by [@hjr](https://github.com/hjr3) - Practical tips to help understand the borrow-checker and move semantics.
 * [Rayon: data parallelism in Rust](http://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/) by [@nikomatsakis](https://github.com/nikomatsakis) - Writing elegant parallel code in Rust.
-
 
 ## Talks
 

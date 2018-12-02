@@ -1,0 +1,5 @@
+services:
+  - docker
+
+script:
+  - docker run -v `pwd`/README.md:/app/README.md mre0/idiomatic-rust-ci README.md
