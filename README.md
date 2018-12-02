@@ -1,4 +1,3 @@
-![Logo](idiomatic-rust.png)
 
 This repository collects resources for writing clean, idiomatic Rust code. [Please bring your own.](https://github.com/mre/idiomatic-rust/blob/master/CONTRIBUTING.md) :blush:
 
