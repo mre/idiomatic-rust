@@ -1,3 +1,6 @@
+![Logo](idiomatic-rust.png)
+
+[![Build Status](https://travis-ci.org/mre/idiomatic-rust.svg?branch=master)](https://travis-ci.org/mre/idiomatic-rust)
 
 This repository collects resources for writing clean, idiomatic Rust code. [Please bring your own.](https://github.com/mre/idiomatic-rust/blob/master/CONTRIBUTING.md) :blush:
 
