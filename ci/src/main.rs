@@ -19,7 +19,7 @@ use std::path::PathBuf;
 use error::CiError;
 
 fn get_urls<T: Into<PathBuf>>(path: T) -> Result<Vec<String>, CiError> {
-    let md_link = Regex::new(r"[^!]\[([^\[\]]+)\]\(([^)]+)")?;
+    let md_link = Regex::new(r"[^!]\[([^\[\]]+)\]\(([^#][^)]+)")?;
 
     let mut f = File::open(path.into())?;
     let mut contents = String::new();
