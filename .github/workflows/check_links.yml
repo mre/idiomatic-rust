@@ -1,0 +1,13 @@
+name: Check Links
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Check Links
+      run: cargo run -- README.md
