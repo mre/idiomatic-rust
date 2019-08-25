@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - working-directory: ci
     - uses: actions/checkout@v1
     - name: Check Links
       run: cargo run -- ../README.md
+      working-directory: ci
