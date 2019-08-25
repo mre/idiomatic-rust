@@ -8,6 +8,10 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ## Articles and Books
 
+### 2019
+
+* [Await a minute](https://docs.rs/dtolnay/0.0.3/dtolnay/macro._01__await_a_minute.html) by [David Tolnay](https://github.com/dtolnay) - Example code for moving from raw futures to async/await syntax to improve error handling, native control flow, and borrowing. 
+ 
 ### 2018
 
 * [Programming an ARM microcontroller in Rust at four different levels of abstraction](http://pramode.in/2018/02/20/programming-a-microcontroller-in-rust-at-four-levels-of-abstraction/) by [Pramode C.E ](http://pramode.in/about/) - Demonstrates how Rust helps to move from brittle, low-level embedded code to high-level abstractions with zero cost.
