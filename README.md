@@ -6,6 +6,17 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 > *Idiomatic* coding means following the conventions of a given language. It is the most concise, convenient, and common way of accomplishing a task in that language, rather than forcing it to work in a way the author is familiar with from a different language. - Adapted from [Tim Mansfield](https://github.com/tim-hr/stuff/wiki/Idiomatic-coding)
 
+## Projects
+
+* [Rust Anthology](https://github.com/brson/rust-anthology) - The best short-form writing about Rust, collected.
+* [cheat.rs - Idiomatic Rust tips](https://cheats.rs/#idiomatic-rust) - A list of quick tips to make your code more idiomatic.
+* [clippy](https://github.com/Manishearth/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code.
+* [Patterns](https://github.com/nrc/patterns/) - A catalogue of Rust design patterns.
+* [Rust by Example](http://rustbyexample.com/) - A community driven collection of example code which follow Rust best practices.
+* [Rust Cookbook](https://github.com/brson/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
+* [rust-api-guidelines](https://github.com/brson/rust-api-guidelines) - An extensive list of recommendations for idiomatic Rust APIs.
+
+
 ## Articles and Books
 
 ### 2019
@@ -55,14 +66,6 @@ Idiomatic Rust - Writing Concise and Elegant Rust Code [[Video](https://video.fo
 
 Idiomatic Rust Libraries [[Video](https://www.youtube.com/watch?v=0zOg8_B71gE)] [[Slides](https://killercup.github.io/rustfest-idiomatic-libs/index.html#/)] by [@killercup](https://github.com/killercup) - Rustfest Kiev  
 What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtube.com/watch?v=rrtJh1kz1Ms)] [[Slides](https://speakerdeck.com/mre/whats-so-hard-about-writing-a-slack-client-in-rust)] by [@mre](https://github.com/mre) - Rust Cologne Meetup
-
-## Projects
-* [Rust Anthology](https://github.com/brson/rust-anthology) - The best short-form writing about Rust, collected.
-* [clippy](https://github.com/Manishearth/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code.
-* [Patterns](https://github.com/nrc/patterns/) - A catalogue of Rust design patterns.
-* [Rust by Example](http://rustbyexample.com/) - A community driven collection of example code which follow Rust best practices.
-* [Rust Cookbook](https://github.com/brson/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
-* [rust-api-guidelines](https://github.com/brson/rust-api-guidelines) - An extensive list of recommendations for idiomatic Rust APIs.
 
 ## Forum
 
