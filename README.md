@@ -58,6 +58,10 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ## Talks
 
+### 2019
+
+Making Rust Delightful [[Video](https://www.youtube.com/watch?v=YSEx8wtlPWc)] by [@nrc](https://github.com/nrc/) - RustCon Asia 2019  
+
 ### 2018
 
 Idiomatic Rust - Writing Concise and Elegant Rust Code [[Video](https://video.fosdem.org/2018/H.2214/rust_idiomatic.mp4)] [[Slides](https://speakerdeck.com/mre/idiomatic-rust-writing-concise-and-elegant-rust-code)] by [@mre](https://github.com/mre) - FOSDEM 2018
