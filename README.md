@@ -12,6 +12,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [cheat.rs - Idiomatic Rust tips](https://cheats.rs/#idiomatic-rust) - A list of quick tips to make your code more idiomatic.
 * [clippy](https://github.com/Manishearth/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code.
 * [Patterns](https://github.com/nrc/patterns/) - A catalogue of Rust design patterns.
+* [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust) - A collection of software engineering techniques for effectively expressing intent with Rust.
 * [Rust by Example](http://rustbyexample.com/) - A community driven collection of example code which follow Rust best practices.
 * [Rust Cookbook](https://github.com/brson/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
 * [rust-api-guidelines](https://github.com/brson/rust-api-guidelines) - An extensive list of recommendations for idiomatic Rust APIs.
