@@ -1,6 +1,10 @@
 name: Check Links
 
-on: [push]
+on: 
+  push:
+  schedule:
+    # Runs every Thursday at 20:23 GMT to avoid bit rot
+    - cron: "20 23 * * 4"
 
 jobs:
   build:
