@@ -11,9 +11,9 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Rust Anthology](https://github.com/brson/rust-anthology) - The best short-form writing about Rust, collected.
 * [cheat.rs - Idiomatic Rust tips](https://cheats.rs/#idiomatic-rust) - A list of quick tips to make your code more idiomatic.
 * [clippy](https://github.com/Manishearth/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code.
-* [Patterns](https://github.com/nrc/patterns/) - A catalogue of Rust design patterns.
+* [Patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns.
 * [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust) - A collection of software engineering techniques for effectively expressing intent with Rust.
-* [Rust by Example](http://rustbyexample.com/) - A community driven collection of example code which follow Rust best practices.
+* [Rust by Example](https://rustbyexample.com/) - A community driven collection of example code which follow Rust best practices.
 * [Rust Cookbook](https://github.com/brson/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
 * [rust-api-guidelines](https://github.com/brson/rust-api-guidelines) - An extensive list of recommendations for idiomatic Rust APIs.
 
@@ -31,7 +31,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
  
 ### 2018
 
-* [Programming an ARM microcontroller in Rust at four different levels of abstraction](http://pramode.in/2018/02/20/programming-a-microcontroller-in-rust-at-four-levels-of-abstraction/) by [Pramode C.E ](http://pramode.in/) - Demonstrates how Rust helps to move from brittle, low-level embedded code to high-level abstractions with zero cost.
+* [Programming an ARM microcontroller in Rust at four different levels of abstraction](https://pramode.in/2018/02/20/programming-a-microcontroller-in-rust-at-four-levels-of-abstraction/) by [Pramode C.E ](https://pramode.in/) - Demonstrates how Rust helps to move from brittle, low-level embedded code to high-level abstractions with zero cost.
 
 * [Discover the world of microcontrollers through Rust!](https://rust-embedded.github.io/discovery/) - This book is an introductory course on microcontroller-based embedded systems that uses Rust as the teaching language rather than the usual C/C++.
 
@@ -47,20 +47,20 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html) by [@killercup](https://github.com/killercup) - Many helpful tips and tricks for writing libraries in Rust.
 * [Teaching libraries through good documentation](https://deterministic.space/teaching-libraries.html) by [@killercup](https://github.com/killercup) - How to use the full power of Rust's documentation support (e.g. doc tests)
 * [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/) by [@hoverbear](https://github.com/Hoverbear) - How to represent a State Machine in an expressive and understandable way in Rust.
-* [Ripgrep Code Review](http://blog.mbrt.dev/2016-12-01-ripgrep-code-review/) by [@mbrt](https://github.com/mbrt) - An analysis of the popular `ripgrep` tool's source code.
+* [Ripgrep Code Review](https://blog.mbrt.dev/2016-12-01-ripgrep-code-review/) by [@mbrt](https://github.com/mbrt) - An analysis of the popular `ripgrep` tool's source code.
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) by [@llogiq](https://github.com/llogiq/) - Small things that make for rustic code.
 * [Convenient and idiomatic conversions in Rust](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust) by [meqif](https://github.com/meqif) - Explains `From<T>`, `Into<T>`, `TryFrom<T>`, `TryInto<T>`, `AsRef<T>` and `AsMut<T>` with pratical examples.
 * [Idiomatic tree and graph like structures in Rust](https://rust-leipzig.github.io/architecture/2016/12/20/idiomatic-trees-in-rust/) by [saschagrunert](https://github.com/saschagrunert) - Introduction to safe, dynamic, arena based tree structures without using lifetimes.
 
 ### 2015
 
-* [Rust traits for developer friendly libraries](http://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/) by [@benashford](https://github.com/benashford) - Thoughts about implementing good Rust libraries.
-* [Error Handling in Rust](http://blog.burntsushi.net/rust-error-handling/) by [@BurntSushi](https://github.com/BurntSushi) - Understanding and handling errors in Rust in an idiomatic way.
-* [Creating a Rust function that accepts String or &str](http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html) by [@hjr](https://github.com/hjr3) - How to make calling your code both ergonomic and fast (zero-allocation).
-* [Creating a Rust function that returns a &str or String](http://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html) by [@hjr](https://github.com/hjr3) - How `Into` and `Cow` (Clone-on-write) work together to avoid allocations for string types.
-* [Effectively Using Iterators In Rust](http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html) by [@hjr](https://github.com/hjr3) - Explanation of the `Iter` and `IntoIter` traits and how loops actually work in Rust.
-* [Strategies for solving 'cannot move out of' borrowing errors in Rust](http://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html) by [@hjr](https://github.com/hjr3) - Practical tips to help understand the borrow-checker and move semantics.
-* [Rayon: data parallelism in Rust](http://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/) by [@nikomatsakis](https://github.com/nikomatsakis) - Writing elegant parallel code in Rust.
+* [Rust traits for developer friendly libraries](https://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/) by [@benashford](https://github.com/benashford) - Thoughts about implementing good Rust libraries.
+* [Error Handling in Rust](https://blog.burntsushi.net/rust-error-handling/) by [@BurntSushi](https://github.com/BurntSushi) - Understanding and handling errors in Rust in an idiomatic way.
+* [Creating a Rust function that accepts String or &str](https://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html) by [@hjr](https://github.com/hjr3) - How to make calling your code both ergonomic and fast (zero-allocation).
+* [Creating a Rust function that returns a &str or String](https://hermanradtke.com/2015/05/29/creating-a-rust-function-that-returns-string-or-str.html) by [@hjr](https://github.com/hjr3) - How `Into` and `Cow` (Clone-on-write) work together to avoid allocations for string types.
+* [Effectively Using Iterators In Rust](https://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html) by [@hjr](https://github.com/hjr3) - Explanation of the `Iter` and `IntoIter` traits and how loops actually work in Rust.
+* [Strategies for solving 'cannot move out of' borrowing errors in Rust](https://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html) by [@hjr](https://github.com/hjr3) - Practical tips to help understand the borrow-checker and move semantics.
+* [Rayon: data parallelism in Rust](https://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/) by [@nikomatsakis](https://github.com/nikomatsakis) - Writing elegant parallel code in Rust.
 
 ## Talks
 
@@ -86,7 +86,7 @@ What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtub
 
 ## History
 
-Coming from Python I loved to have some guidelines on how "idiomatic Python" looks like. I was inspired by the likes of Peter Norvig, who wrote amazing articles on [spellcheckers](http://norvig.com/spell-correct.html) and [sudoku solvers](http://norvig.com/sudoku.html).
+Coming from Python I loved to have some guidelines on how "idiomatic Python" looks like. I was inspired by the likes of Peter Norvig, who wrote amazing articles on [spellcheckers](https://norvig.com/spell-correct.html) and [sudoku solvers](https://norvig.com/sudoku.html).
 And, of course, the [Zen of Python](https://www.python.org/dev/peps/pep-0020/).
 
 The goal of this project is to create a peer-reviewed collection of articles/talks/repos which teach idiomatic Rust style. It's a community project. If this becomes a thing I plan to move it to some "semi-official" place like rust-nursery or so. But first I need YOUR help for that ;-)
@@ -95,5 +95,5 @@ The goal of this project is to create a peer-reviewed collection of articles/tal
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Matthias Endler](http://endler.dev) has waived all copyright and related or neighboring rights to this work.
-Logo adapted from [FreePik.com](http://www.freepik.com/free-vector/crabs-pattern-design_1093131.htm).
+To the extent possible under law, [Matthias Endler](https://endler.dev) has waived all copyright and related or neighboring rights to this work.
+Logo adapted from [FreePik.com](https://www.freepik.com/free-vector/crabs-pattern-design_1093131.htm).
