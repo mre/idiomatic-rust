@@ -17,6 +17,11 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Rust Cookbook](https://github.com/brson/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
 * [rust-api-guidelines](https://github.com/brson/rust-api-guidelines) - An extensive list of recommendations for idiomatic Rust APIs.
 
+## Workshops
+
+* [Build your own JIRA with Rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust/) - A test-driven workshop to learn Rust building your own JIRA clone!
+* [Ferrous Systems Teaching Material](https://ferrous-systems.github.io/teaching-material/index.html) - Free workshop material produced by Ferrous Systems for trainings. The time for the full course is around three to four days.
+* [PingCAP talent plan](https://github.com/pingcap/talent-plan) - A series of training courses about writing distributed systems in Rust. The courses primarily consist of projects where coding problems are presented, along with a partial implementation or API description, and a test suite.
 
 ## Articles and Books
 
