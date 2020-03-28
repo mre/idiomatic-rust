@@ -25,6 +25,10 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ## Articles and Books
 
+### 2020
+
+* [Guide on how to write documentation for a Rust crate](https://blog.guillaume-gomez.fr/articles/2020-03-12+Guide+on+how+to+write+documentation+for+a+Rust+crate) - Writing good documentation with rustdoc including many examples.
+
 ### 2019
 
 * [Await a minute](https://docs.rs/dtolnay/0.0.3/dtolnay/macro._01__await_a_minute.html) by [David Tolnay](https://github.com/dtolnay) - Example code for moving from raw futures to async/await syntax to improve error handling, native control flow, and borrowing. 
