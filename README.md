@@ -6,7 +6,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 > *Idiomatic* coding means following the conventions of a given language. It is the most concise, convenient, and common way of accomplishing a task in that language, rather than forcing it to work in a way the author is familiar with from a different language. - Adapted from [Tim Mansfield](https://github.com/tim-hr/stuff/wiki/Idiomatic-coding)
 
-## Projects
+## ⚙ Projects
 
 * [Rust Anthology](https://github.com/brson/rust-anthology) - The best short-form writing about Rust, collected.
 * [cheat.rs - Idiomatic Rust tips](https://cheats.rs/#idiomatic-rust) - A list of quick tips to make your code more idiomatic.
@@ -17,13 +17,13 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Rust Cookbook](https://github.com/brson/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
 * [rust-api-guidelines](https://github.com/brson/rust-api-guidelines) - An extensive list of recommendations for idiomatic Rust APIs.
 
-## Workshops
+## 🏋 Workshops
 
 * [Build your own JIRA with Rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust/) - A test-driven workshop to learn Rust building your own JIRA clone!
 * [Ferrous Systems Teaching Material](https://ferrous-systems.github.io/teaching-material/index.html) - Free workshop material produced by Ferrous Systems for trainings. The time for the full course is around three to four days.
 * [PingCAP talent plan](https://github.com/pingcap/talent-plan) - A series of training courses about writing distributed systems in Rust. The courses primarily consist of projects where coding problems are presented, along with a partial implementation or API description, and a test suite.
 
-## Articles and Books
+## 📖 Articles and Books
 
 ### 2020
 
@@ -39,7 +39,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 * [Discover the world of microcontrollers through Rust!](https://rust-embedded.github.io/discovery/) - This book is an introductory course on microcontroller-based embedded systems that uses Rust as the teaching language rather than the usual C/C++.
 
-###  2017
+### 2017
 
 * [Lessons learned redesigning and refactoring a Rust Library](https://mgattozzi.com/refactor-rust) by [@mgattozzi](https://github.com/mgattozzi) - `RefCell`, the builder pattern and more.
 * [Math with distances in Rust: safety and correctness across units](https://ferrisellis.com/content/rust-implementing-units-for-types/) by [@code-ape](https://github.com/code-ape) - How to create a system to cleanly and safely do arithmetic with lengths.
@@ -66,7 +66,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Strategies for solving 'cannot move out of' borrowing errors in Rust](https://hermanradtke.com/2015/06/09/strategies-for-solving-cannot-move-out-of-borrowing-errors-in-rust.html) by [@hjr](https://github.com/hjr3) - Practical tips to help understand the borrow-checker and move semantics.
 * [Rayon: data parallelism in Rust](https://smallcultfollowing.com/babysteps/blog/2015/12/18/rayon-data-parallelism-in-rust/) by [@nikomatsakis](https://github.com/nikomatsakis) - Writing elegant parallel code in Rust.
 
-## Talks
+## 🎤 Talks
 
 ### 2019
 
@@ -76,26 +76,26 @@ Making Rust Delightful [[Video](https://www.youtube.com/watch?v=YSEx8wtlPWc)] by
 
 Idiomatic Rust - Writing Concise and Elegant Rust Code [[Video](https://www.youtube.com/watch?v=P2mooqNMxMs)] [[Slides](https://speakerdeck.com/mre/idiomatic-rust-writing-concise-and-elegant-rust-code)] by [@mre](https://github.com/mre) - FOSDEM 2018
 
-###  2017
+### 2017
 
 Idiomatic Rust Libraries [[Video](https://www.youtube.com/watch?v=0zOg8_B71gE)] [[Slides](https://killercup.github.io/rustfest-idiomatic-libs/index.html#/)] by [@killercup](https://github.com/killercup) - Rustfest Kiev  
 What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtube.com/watch?v=rrtJh1kz1Ms)] [[Slides](https://speakerdeck.com/mre/whats-so-hard-about-writing-a-slack-client-in-rust)] by [@mre](https://github.com/mre) - Rust Cologne Meetup
 
-## Forum
+## 💬 Forum
 
 ### 2017
 
 * [Which is more idiomatic? Functional, imperative or a mix?](https://users.rust-lang.org/t/which-is-more-idiomatic-functional-imperative-or-a-mix/11278)
 * [An idiomatic way to sum up values in a multidimensional Array](https://users.rust-lang.org/t/an-idiomatic-way-to-sum-up-values-in-a-multidimensional-array/9485)
 
-## History
+## 📜 History
 
 Coming from Python I loved to have some guidelines on how "idiomatic Python" looks like. I was inspired by the likes of Peter Norvig, who wrote amazing articles on [spellcheckers](https://norvig.com/spell-correct.html) and [sudoku solvers](https://norvig.com/sudoku.html).
 And, of course, the [Zen of Python](https://www.python.org/dev/peps/pep-0020/).
 
 The goal of this project is to create a peer-reviewed collection of articles/talks/repos which teach idiomatic Rust style. It's a community project. If this becomes a thing I plan to move it to some "semi-official" place like rust-nursery or so. But first I need YOUR help for that ;-)
 
-## License
+## 🔏 License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
