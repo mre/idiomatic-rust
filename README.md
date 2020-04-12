@@ -41,6 +41,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ### 2017
 
+* [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html) by [@Xion](https://github.com/Xion) - Explores how to filter and partition iterators of Result and Option types idiomatically.
 * [Lessons learned redesigning and refactoring a Rust Library](https://mgattozzi.com/refactor-rust) by [@mgattozzi](https://github.com/mgattozzi) - `RefCell`, the builder pattern and more.
 * [Math with distances in Rust: safety and correctness across units](https://ferrisellis.com/content/rust-implementing-units-for-types/) by [@code-ape](https://github.com/code-ape) - How to create a system to cleanly and safely do arithmetic with lengths.
 * [The balance between cost, useability and soundness in C bindings, and Rust-SDL2&#39;s release](https://web.archive.org/web/20190509123207/https://cobrand.github.io/rust/sdl2/2017/05/07/the-balance-between-soundness-cost-useability.html) by [@Cobrand](https://github.com/Cobrand) - Writing safe, sound, idiomatic libraries despite the limitations of the borrow checker.
