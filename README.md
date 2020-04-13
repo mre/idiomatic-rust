@@ -32,6 +32,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 ### 2019
 
 * [Await a minute](https://docs.rs/dtolnay/0.0.3/dtolnay/macro._01__await_a_minute.html) by [David Tolnay](https://github.com/dtolnay) - Example code for moving from raw futures to async/await syntax to improve error handling, native control flow, and borrowing. 
+* [Taking string arguments in Rust](http://xion.io/post/code/rust-string-args.html) by [@Xion](https://github.com/Xion) - Discussing how to avoid subtle issues with string handling and when to use `str` (the string slice) and `String` (the owned/allocated string).
  
 ### 2018
 
