@@ -22,6 +22,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Build your own JIRA with Rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust/) - A test-driven workshop to learn Rust building your own JIRA clone!
 * [Ferrous Systems Teaching Material](https://ferrous-systems.github.io/teaching-material/index.html) - Free workshop material produced by Ferrous Systems for trainings. The time for the full course is around three to four days.
 * [PingCAP talent plan](https://github.com/pingcap/talent-plan) - A series of training courses about writing distributed systems in Rust. The courses primarily consist of projects where coding problems are presented, along with a partial implementation or API description, and a test suite.
+* [Procedural Macros Workshop](https://github.com/dtolnay/proc-macro-workshop) - This repo contains a selection of projects designed to learn to write Rust procedural macros — Rust code that generates Rust code.
 
 ## 📖 Articles and Books
 
