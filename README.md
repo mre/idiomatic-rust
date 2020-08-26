@@ -71,6 +71,10 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ## 🎤 Talks
 
+### 2020
+
+Macros for a More Productive Rust [[Video](https://www.youtube.com/watch?v=dZiWkbnaQe8)] by [@jam1garner](https://github.com/jam1garner) - RustConf 2020
+
 ### 2019
 
 Making Rust Delightful [[Video](https://www.youtube.com/watch?v=YSEx8wtlPWc)] by [@nrc](https://github.com/nrc/) - RustCon Asia 2019  
