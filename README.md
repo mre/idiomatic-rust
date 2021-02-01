@@ -26,6 +26,10 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ## 📖 Articles and Books
 
+### 2021
+
+* [Wrapping errors in Rust](https://edgarluque.com/blog/wrapping-errors-in-rust) by [Edgar Luque](https://github.com/edg-l) - Wrapping `reqwest::Error` and a custom error type as an enum to make library usage easier. Also mentions [thiserror](https://github.com/dtolnay/thiserror) to automate that process.
+
 ### 2020
 
 * [Refactoring Rust Transpiled from C](https://immunant.com/blog/2020/09/transpiled_c_safety/) by [Per Larsen](https://github.com/thedataking) - Describes how to lift a C-project that was automatically converted to unsafe Rust with C2Rust to safer, more idiomatic Rust with some human intervention. 
