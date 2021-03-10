@@ -96,6 +96,10 @@ What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtub
 
 ## 💬 Forum
 
+### 2020
+
+* [Preferred way of passing `Path`-like types around?](https://www.reddit.com/r/rust/comments/cekeq9/preferred_way_of_passing_pathlike_types_around/)
+
 ### 2017
 
 * [Which is more idiomatic? Functional, imperative or a mix?](https://users.rust-lang.org/t/which-is-more-idiomatic-functional-imperative-or-a-mix/11278)
