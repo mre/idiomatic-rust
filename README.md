@@ -64,7 +64,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html) by [@killercup](https://github.com/killercup) - Many helpful tips and tricks for writing libraries in Rust.
 * [Teaching libraries through good documentation](https://deterministic.space/teaching-libraries.html) by [@killercup](https://github.com/killercup) - How to use the full power of Rust's documentation support (e.g. doc tests)
 * [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/) by [@hoverbear](https://github.com/Hoverbear) - How to represent a State Machine in an expressive and understandable way in Rust.
-* [Ripgrep Code Review](https://blog.mbrt.dev/2016-12-01-ripgrep-code-review/) by [@mbrt](https://github.com/mbrt) - An analysis of the popular `ripgrep` tool's source code.
+* [Ripgrep Code Review](https://blog.mbrt.dev/posts/ripgrep/) by [@mbrt](https://github.com/mbrt) - An analysis of the popular `ripgrep` tool's source code.
 * [Rustic Bits](https://llogiq.github.io/2016/02/11/rustic.html) by [@llogiq](https://github.com/llogiq/) - Small things that make for rustic code.
 * [Convenient and idiomatic conversions in Rust](https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust) by [meqif](https://github.com/meqif) - Explains `From<T>`, `Into<T>`, `TryFrom<T>`, `TryInto<T>`, `AsRef<T>` and `AsMut<T>` with pratical examples.
 * [Idiomatic tree and graph like structures in Rust](https://rust-leipzig.github.io/architecture/2016/12/20/idiomatic-trees-in-rust/) by [saschagrunert](https://github.com/saschagrunert) - Introduction to safe, dynamic, arena based tree structures without using lifetimes.
