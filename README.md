@@ -25,7 +25,12 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [PingCAP talent plan](https://github.com/pingcap/talent-plan) - A series of training courses about writing distributed systems in Rust. The courses primarily consist of projects where coding problems are presented, along with a partial implementation or API description, and a test suite.
 * [Procedural Macros Workshop](https://github.com/dtolnay/proc-macro-workshop) - This repo contains a selection of projects designed to learn to write Rust procedural macros — Rust code that generates Rust code.
 
-## 📖 Articles and Books
+## 📖 Books
+
+* [Command Line Applications in Rust](https://rust-cli.github.io/book) - A tutorial on how to write CLI apps in Rust, learning many aspects of the ecosystem along the way.
+* [Discover the world of microcontrollers through Rust!](https://rust-embedded.github.io/discovery/) - This book is an introductory course on microcontroller-based embedded systems that uses Rust as the teaching language rather than the usual C/C++.
+
+## 📰 Articles
 
 ### 2021
 
@@ -45,8 +50,6 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 ### 2018
 
 * [Programming an ARM microcontroller in Rust at four different levels of abstraction](https://pramode.in/2018/02/20/programming-a-microcontroller-in-rust-at-four-levels-of-abstraction/) by [Pramode C.E ](https://pramode.in/) - Demonstrates how Rust helps to move from brittle, low-level embedded code to high-level abstractions with zero cost.
-
-* [Discover the world of microcontrollers through Rust!](https://rust-embedded.github.io/discovery/) - This book is an introductory course on microcontroller-based embedded systems that uses Rust as the teaching language rather than the usual C/C++.
 
 ### 2017
 
