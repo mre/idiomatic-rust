@@ -41,6 +41,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Refactoring Rust Transpiled from C](https://immunant.com/blog/2020/09/transpiled_c_safety/) by [Per Larsen](https://github.com/thedataking) - Describes how to lift a C-project that was automatically converted to unsafe Rust with C2Rust to safer, more idiomatic Rust with some human intervention. 
 * [Learning Rust through open source and live code reviews](https://loige.co/learning-rust-through-open-source-and-live-code-reviews/) by [Luciano Mammino](https://github.com/lmammino) and [Stefano Abalsamo](https://github.com/stefanoabalsamo79) - Covers patterns like [FromStr](https://doc.rust-lang.org/std/str/trait.FromStr.html) and exposing a CLI and a library in one crate.
 * [Guide on how to write documentation for a Rust crate](https://blog.guillaume-gomez.fr/articles/2020-03-12+Guide+on+how+to+write+documentation+for+a+Rust+crate) - Writing good documentation with rustdoc including many examples.
+* [Are out parameters idiomatic in Rust?](https://steveklabnik.com/writing/are-out-parameters-idiomatic-in-rust) - Discusses the pros and cons of functions returning a value vs. modifying a parameter in-place.
 
 ### 2019
 
