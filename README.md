@@ -16,7 +16,6 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Possible Rust](https://www.possiblerust.com/) - A blog for intermediate Rust programmers exploring real-world code and design patterns. 
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - An extensive list of recommendations for idiomatic Rust APIs.
 * [Rust by Example](https://rustbyexample.com/) - A community driven collection of example code which follow Rust best practices.
-* [Rust Cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
 
 ## 🏋 Workshops
 
@@ -29,6 +28,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 * [Command Line Applications in Rust](https://rust-cli.github.io/book) - A tutorial on how to write CLI apps in Rust, learning many aspects of the ecosystem along the way.
 * [Discover the world of microcontrollers through Rust!](https://rust-embedded.github.io/discovery/) - This book is an introductory course on microcontroller-based embedded systems that uses Rust as the teaching language rather than the usual C/C++.
+* [Rust Cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
 
 ## 📰 Articles
 
