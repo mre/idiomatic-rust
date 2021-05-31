@@ -34,6 +34,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ### 2021
 
+* [Naming Your Lifetimes](https://www.possiblerust.com/pattern/naming-your-lifetimes) by [Possible Rust](https://www.possiblerust.com) - Explains how using longer, declarative lifetime names can help to disambiguate which borrow is which, and where it’s coming from.
 * [Aiming for idiomatic Rust](https://shane-o.dev/blog/aiming-for-idiomatic-rust) by [Shane Osbourne](https://shane-o.dev/) - Discusses different ways to solve a popular coding puzzle, "balanced brackets", in Rust.
 * [Wrapping errors in Rust](https://edgarluque.com/blog/wrapping-errors-in-rust) by [Edgar Luque](https://github.com/edg-l) - Wrapping `reqwest::Error` and a custom error type as an enum to make library usage easier. Also mentions [thiserror](https://github.com/dtolnay/thiserror) to automate that process.
 
