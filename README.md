@@ -49,6 +49,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 * [Await a minute](https://docs.rs/dtolnay/0.0.3/dtolnay/macro._01__await_a_minute.html) by [David Tolnay](https://github.com/dtolnay) - Example code for moving from raw futures to async/await syntax to improve error handling, native control flow, and borrowing. 
 * [Taking string arguments in Rust](http://xion.io/post/code/rust-string-args.html) by [@Xion](https://github.com/Xion) - Discussing how to avoid subtle issues with string handling and when to use `str` (the string slice) and `String` (the owned/allocated string).
+* [Rust Patterns: Enums Instead Of Booleans](http://blakesmith.me/2019/05/07/rust-patterns-enums-instead-of-booleans.html) by [Blake Smith](https://github.com/blakesmith) - Discusses how using enums instead of booleans can be useful to express intent more clearly without sacrificing safety thanks to Rust's strong semantics (like exhaustive pattern matching).
  
 ### 2018
 
