@@ -15,7 +15,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust) - A collection of software engineering techniques for effectively expressing intent with Rust.
 * [Possible Rust](https://www.possiblerust.com/) - A blog for intermediate Rust programmers exploring real-world code and design patterns. 
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - An extensive list of recommendations for idiomatic Rust APIs.
-* [Rust by Example](https://rustbyexample.com/) - A community driven collection of example code which follow Rust best practices.
+* [Rust by Example](https://doc.rust-lang.org/rust-by-example/) - A community driven collection of example code which follow Rust best practices.
 
 ## 🏋 Workshops
 
