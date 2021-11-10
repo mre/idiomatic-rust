@@ -22,7 +22,7 @@ jobs:
     - name: Link Checker
       uses: lycheeverse/lychee-action@master
       with:
-        args: --exclude reddit.com '*.md'
+        args: --exclude reddit.com -- '*.md'
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
