@@ -11,7 +11,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Rust Anthology](https://github.com/brson/rust-anthology) - The best short-form writing about Rust, collected.
 * [cheat.rs - Idiomatic Rust tips](https://cheats.rs/#idiomatic-rust) - A list of quick tips to make your code more idiomatic.
 * [clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code.
-* [Patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns.
+* [Patterns](https://rust-unofficial.github.io/patterns/) - A catalogue of design patterns in Rust.
 * [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust) - A collection of software engineering techniques for effectively expressing intent with Rust.
 * [Possible Rust](https://www.possiblerust.com/) - A blog for intermediate Rust programmers exploring real-world code and design patterns. 
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - An extensive list of recommendations for idiomatic Rust APIs.
