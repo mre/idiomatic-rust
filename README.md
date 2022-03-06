@@ -1,6 +1,6 @@
 ![Logo](idiomatic-rust.png)
 
-![Build Status - Check Links](https://github.com/mre/idiomatic-rust/workflows/Check%20Links/badge.svg)
+[![Check Links](https://github.com/mre/idiomatic-rust/workflows/Check%20Links/badge.svg)](https://github.com/mre/idiomatic-rust/actions/workflows/check_links.yml)
 
 This repository collects resources for writing clean, idiomatic Rust code. [Please bring your own.](https://github.com/mre/idiomatic-rust/blob/master/CONTRIBUTING.md) :blush:
 
