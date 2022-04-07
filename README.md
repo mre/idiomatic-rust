@@ -29,6 +29,8 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Command Line Applications in Rust](https://rust-cli.github.io/book) - A tutorial on how to write CLI apps in Rust, learning many aspects of the ecosystem along the way.
 * [Command-Line Rust](https://github.com/kyclark/command-line-rust) by [Ken Youens-Clark](https://github.com/kyclark) - Learn the language by writing Rust versions of common Unix coreutils like head, tail, cal, cut, comm, etc.
 * [Discover the world of microcontrollers through Rust!](https://rust-embedded.github.io/discovery/) - This book is an introductory course on microcontroller-based embedded systems that uses Rust as the teaching language rather than the usual C/C++.
+* [High Assurance Rust](https://highassurance.rs/) by [Tiemoko Ballo
+](https://github.com/tnballo) - Developing Secure and Robust Software. Tackles implementing embedded-friendly datastructures in an idiomatic way.
 * [Rust Cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
 * [Rust for Rustaceans](https://nostarch.com/rust-rustaceans) by [Jon Gjengset](https://github.com/jonhoo) - Covers how to design reliable, idiomatic, and ergonomic Rust programs based on best principles.
 
