@@ -65,13 +65,13 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 ### 2017
 
 * [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html) by [@Xion](https://github.com/Xion) - Explores how to filter and partition iterators of Result and Option types idiomatically.
-* [Lessons learned redesigning and refactoring a Rust Library](https://blog.mgattozzi.dev/refactor-rust) by [@mgattozzi](https://github.com/mgattozzi) - `RefCell`, the builder pattern and more.
+* [Lessons learned redesigning and refactoring a Rust Library](https://web.archive.org/web/20220126172949/https://blog.mgattozzi.dev/refactor-rust/) by [@mgattozzi](https://github.com/mgattozzi) - `RefCell`, the builder pattern and more.
 * [Math with distances in Rust: safety and correctness across units](https://ferrisellis.com/content/rust-implementing-units-for-types/) by [@code-ape](https://github.com/code-ape) - How to create a system to cleanly and safely do arithmetic with lengths.
 * [The balance between cost, useability and soundness in C bindings, and Rust-SDL2&#39;s release](https://web.archive.org/web/20190509123207/https://cobrand.github.io/rust/sdl2/2017/05/07/the-balance-between-soundness-cost-useability.html) by [@Cobrand](https://github.com/Cobrand) - Writing safe, sound, idiomatic libraries despite the limitations of the borrow checker.
 
 ### 2016
 
-* [Russian Dolls and clean Rust code](https://blog.mgattozzi.dev/russian-dolls) by [@mgattozzi](https://github.com/mgattozzi) - How to use the full power of `Option` and `Result` (especially `and_then()` and `unwrap_or()`).
+* [Russian Dolls and clean Rust code](https://web.archive.org/web/20220126183049/https://blog.mgattozzi.dev/russian-dolls/) by [@mgattozzi](https://github.com/mgattozzi) - How to use the full power of `Option` and `Result` (especially `and_then()` and `unwrap_or()`).
 * [Elegant Library APIs in Rust](https://deterministic.space/elegant-apis-in-rust.html) by [@killercup](https://github.com/killercup) - Many helpful tips and tricks for writing libraries in Rust.
 * [Teaching libraries through good documentation](https://deterministic.space/teaching-libraries.html) by [@killercup](https://github.com/killercup) - How to use the full power of Rust's documentation support (e.g. doc tests)
 * [Pretty State Machine Patterns in Rust](https://hoverbear.org/2016/10/12/rust-state-machine-pattern/) by [@hoverbear](https://github.com/Hoverbear) - How to represent a State Machine in an expressive and understandable way in Rust.
