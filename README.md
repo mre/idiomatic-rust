@@ -92,6 +92,10 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ## 🎤 Talks
 
+### 2022
+
+Nine Rules for Elegant Rust Library APIs [[Video](https://www.youtube.com/watch?v=6-8-9ZV-2WQ)] by [Carl Kadie](https://www.linkedin.com/in/carlk/) - Seattle Rust Meetup, Sep. 2022
+
 ### 2020
 
 Macros for a More Productive Rust [[Video](https://www.youtube.com/watch?v=dZiWkbnaQe8)] by [@jam1garner](https://github.com/jam1garner) - RustConf 2020
