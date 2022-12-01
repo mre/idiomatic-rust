@@ -1,6 +1,6 @@
 name: Check Links
 
-on: 
+on:
   push:
   repository_dispatch:
   workflow_dispatch:
@@ -10,26 +10,25 @@ on:
 
 env:
   USER_AGENT: "linux:lychee-action:@master (by /u/mre__)"
-  
+
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
+      - uses: actions/checkout@v1
 
-    - name: Link Checker
-      uses: lycheeverse/lychee-action@master
-      with:
-        args: --exclude reddit.com -- '*.md'
-        fail: true
-      env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@master
+        with:
+          args: -- '*.md'
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
-    - name: Create Issue From File
-      uses: peter-evans/create-issue-from-file@v4
-      with:
-        title: Link Checker Report
-        content-filepath: ./lychee/out.md
-        labels: report, automated issue
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
