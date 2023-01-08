@@ -94,24 +94,25 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ### 2022
 
-Nine Rules for Elegant Rust Library APIs [[Video](https://www.youtube.com/watch?v=6-8-9ZV-2WQ)] by [Carl Kadie](https://www.linkedin.com/in/carlk/) - Seattle Rust Meetup, Sep. 2022
+* Nine Rules for Elegant Rust Library APIs [[Video](https://www.youtube.com/watch?v=6-8-9ZV-2WQ)] by [Carl Kadie](https://www.linkedin.com/in/carlk/) - Seattle Rust Meetup, Sep. 2022
+* Ergonomic APIs for hard problems [[Video](https://www.youtube.com/watch?v=Phk0C-kLlho)] [[Slides](https://docs.google.com/presentation/d/1P8Su5mZSYkfZ1A9mPAaKag-vtXmVD8nUBD7Ym-pfwJM)] by [Raph Levien](https://levien.com/) -  RustLab Conference, October 2022
 
 ### 2020
 
-Macros for a More Productive Rust [[Video](https://www.youtube.com/watch?v=dZiWkbnaQe8)] by [@jam1garner](https://github.com/jam1garner) - RustConf 2020
+* Macros for a More Productive Rust [[Video](https://www.youtube.com/watch?v=dZiWkbnaQe8)] by [@jam1garner](https://github.com/jam1garner) - RustConf 2020
 
 ### 2019
 
-Making Rust Delightful [[Video](https://www.youtube.com/watch?v=YSEx8wtlPWc)] by [@nrc](https://github.com/nrc/) - RustCon Asia 2019  
+* Making Rust Delightful [[Video](https://www.youtube.com/watch?v=YSEx8wtlPWc)] by [@nrc](https://github.com/nrc/) - RustCon Asia 2019  
 
 ### 2018
 
-Idiomatic Rust - Writing Concise and Elegant Rust Code [[Video](https://www.youtube.com/watch?v=P2mooqNMxMs)] [[Slides](https://speakerdeck.com/mre/idiomatic-rust-writing-concise-and-elegant-rust-code)] by [@mre](https://github.com/mre) - FOSDEM 2018
+* Idiomatic Rust - Writing Concise and Elegant Rust Code [[Video](https://www.youtube.com/watch?v=P2mooqNMxMs)] [[Slides](https://speakerdeck.com/mre/idiomatic-rust-writing-concise-and-elegant-rust-code)] by [@mre](https://github.com/mre) - FOSDEM 2018
 
 ### 2017
 
-Idiomatic Rust Libraries [[Video](https://www.youtube.com/watch?v=0zOg8_B71gE)] [[Slides](https://killercup.github.io/rustfest-idiomatic-libs/index.html#/)] by [@killercup](https://github.com/killercup) - Rustfest Kiev  
-What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtube.com/watch?v=rrtJh1kz1Ms)] [[Slides](https://speakerdeck.com/mre/whats-so-hard-about-writing-a-slack-client-in-rust)] by [@mre](https://github.com/mre) - Rust Cologne Meetup
+* Idiomatic Rust Libraries [[Video](https://www.youtube.com/watch?v=0zOg8_B71gE)] [[Slides](https://killercup.github.io/rustfest-idiomatic-libs/index.html#/)] by [@killercup](https://github.com/killercup) - Rustfest Kiev  
+* What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtube.com/watch?v=rrtJh1kz1Ms)] [[Slides](https://speakerdeck.com/mre/whats-so-hard-about-writing-a-slack-client-in-rust)] by [@mre](https://github.com/mre) - Rust Cologne Meetup
 
 ## 💬 Forum
 
