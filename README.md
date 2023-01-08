@@ -20,6 +20,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ## 🏋 Workshops
 
+* [Comprehensive Rust](https://github.com/google/comprehensive-rust) - A four day Rust course developed by the Android team, which covers all aspects of Rust, from basic syntax to generics and error handling. It also includes Android-specific content and touches on Rust ergonomics.
 * [Build your own JIRA with Rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust/) - A test-driven workshop to learn Rust building your own JIRA clone!
 * [Ferrous Systems Teaching Material](https://ferrous-systems.github.io/teaching-material/index.html) - Free workshop material produced by Ferrous Systems for trainings. The time for the full course is around three to four days.
 * [PingCAP talent plan](https://github.com/pingcap/talent-plan) - A series of training courses about writing distributed systems in Rust. The courses primarily consist of projects where coding problems are presented, along with a partial implementation or API description, and a test suite.
