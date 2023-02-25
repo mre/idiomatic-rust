@@ -12,9 +12,9 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [blessed.rs](https://blessed.rs) - An unofficial guide to the Rust ecosystem. Suggestions for popular, well-maintained crates.
 * [cheats.rs - Idiomatic Rust tips](https://cheats.rs/#idiomatic-rust) - A list of quick tips to make your code more idiomatic.
 * [clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code.
-* [Patterns](https://rust-unofficial.github.io/patterns/) - A catalogue of design patterns in Rust.
+* [Patterns](https://rust-unofficial.github.io/patterns/) - A catalog of design patterns in Rust.
 * [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust) - A collection of software engineering techniques for effectively expressing intent with Rust.
-* [Possible Rust](https://www.possiblerust.com/) - A blog for intermediate Rust programmers exploring real-world code and design patterns. 
+* [Possible Rust](https://www.possiblerust.com/) - A blog for intermediate Rust programmers exploring real-world code and design patterns.
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - An extensive list of recommendations for idiomatic Rust APIs.
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/) - A community driven collection of example code which follow Rust best practices.
 
@@ -25,6 +25,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Ferrous Systems Teaching Material](https://ferrous-systems.github.io/teaching-material/index.html) - Free workshop material produced by Ferrous Systems for trainings. The time for the full course is around three to four days.
 * [PingCAP talent plan](https://github.com/pingcap/talent-plan) - A series of training courses about writing distributed systems in Rust. The courses primarily consist of projects where coding problems are presented, along with a partial implementation or API description, and a test suite.
 * [Procedural Macros Workshop](https://github.com/dtolnay/proc-macro-workshop) - This repo contains a selection of projects designed to learn to write Rust procedural macros — Rust code that generates Rust code.
+* [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - 🦀 Small exercises to get you used to reading and writing Rust code!
 
 ## 📖 Books
 
