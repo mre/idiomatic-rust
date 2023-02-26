@@ -14,7 +14,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code.
 * [Patterns](https://rust-unofficial.github.io/patterns/) - A catalogue of design patterns in Rust.
 * [Elements of Rust](https://github.com/ferrous-systems/elements-of-rust) - A collection of software engineering techniques for effectively expressing intent with Rust.
-* [Possible Rust](https://www.possiblerust.com/) - A blog for intermediate Rust programmers exploring real-world code and design patterns. 
+* [Possible Rust](https://www.possiblerust.com/) - A blog for intermediate Rust programmers exploring real-world code and design patterns.
 * [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/) - An extensive list of recommendations for idiomatic Rust APIs.
 * [Rust by Example](https://doc.rust-lang.org/rust-by-example/) - A community driven collection of example code which follow Rust best practices.
 
@@ -25,6 +25,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Ferrous Systems Teaching Material](https://ferrous-systems.github.io/teaching-material/index.html) - Free workshop material produced by Ferrous Systems for trainings. The time for the full course is around three to four days.
 * [PingCAP talent plan](https://github.com/pingcap/talent-plan) - A series of training courses about writing distributed systems in Rust. The courses primarily consist of projects where coding problems are presented, along with a partial implementation or API description, and a test suite.
 * [Procedural Macros Workshop](https://github.com/dtolnay/proc-macro-workshop) - This repo contains a selection of projects designed to learn to write Rust procedural macros — Rust code that generates Rust code.
+* [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - 🦀 Small exercises to get you used to reading and writing Rust code!
 
 ## 📖 Books
 
@@ -32,9 +33,11 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [Command-Line Rust](https://github.com/kyclark/command-line-rust) by [Ken Youens-Clark](https://github.com/kyclark) - Learn the language by writing Rust versions of common Unix coreutils like head, tail, cal, cut, comm, etc.
 * [Discover the world of microcontrollers through Rust!](https://rust-embedded.github.io/discovery/) - This book is an introductory course on microcontroller-based embedded systems that uses Rust as the teaching language rather than the usual C/C++.
 * [High Assurance Rust](https://highassurance.rs/) by [Tiemoko Ballo
-](https://github.com/tnballo) - Developing Secure and Robust Software. Tackles implementing embedded-friendly datastructures in an idiomatic way.
+](https://github.com/tnballo) - Developing Secure and Robust Software. Tackles implementing embedded-friendly data structures in an idiomatic way.
 * [Rust Cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - Examples that demonstrate good practices to accomplish common programming tasks in Rust.
 * [Rust for Rustaceans](https://nostarch.com/rust-rustaceans) by [Jon Gjengset](https://github.com/jonhoo) - Covers how to design reliable, idiomatic, and ergonomic Rust programs based on best principles.
+* [Programming Rust: Fast, Safe Systems Development](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) - A comprehensive Rust Programming Guide that covers most of Rust's features in detail.
+* [Rust Atomics and Locks](https://marabos.nl/atomics/) by [Mara Bos](https://github.com/m-ou-se) - Helps Rust programmers of all levels gain a clear understanding of low-level concurrency.
 
 ## 📰 Articles
 
@@ -48,17 +51,17 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 ### 2020
 
 * [Context-preserving error handling](https://kazlauskas.me/entries/errors) by [Simonas Kazlauskas](https://github.com/nagisa) - Explains how to use crates like `thiserror` in combination with `map_err` to add context to errors to prevent information loss.
-* [Refactoring Rust Transpiled from C](https://immunant.com/blog/2020/09/transpiled_c_safety/) by [Per Larsen](https://github.com/thedataking) - Describes how to lift a C-project that was automatically converted to unsafe Rust with C2Rust to safer, more idiomatic Rust with some human intervention. 
+* [Refactoring Rust Transpiled from C](https://immunant.com/blog/2020/09/transpiled_c_safety/) by [Per Larsen](https://github.com/thedataking) - Describes how to lift a C-project that was automatically converted to unsafe Rust with C2Rust to safer, more idiomatic Rust with some human intervention.
 * [Learning Rust through open source and live code reviews](https://loige.co/learning-rust-through-open-source-and-live-code-reviews/) by [Luciano Mammino](https://github.com/lmammino) and [Stefano Abalsamo](https://github.com/stefanoabalsamo79) - Covers patterns like [FromStr](https://doc.rust-lang.org/std/str/trait.FromStr.html) and exposing a CLI and a library in one crate.
 * [Guide on how to write documentation for a Rust crate](https://blog.guillaume-gomez.fr/articles/2020-03-12+Guide+on+how+to+write+documentation+for+a+Rust+crate) - Writing good documentation with rustdoc including many examples.
 * [Are out parameters idiomatic in Rust?](https://steveklabnik.com/writing/are-out-paramters-idiomatic-in-rust) - Discusses the pros and cons of functions returning a value vs. modifying a parameter in-place.
 
 ### 2019
 
-* [Await a minute](https://docs.rs/dtolnay/0.0.3/dtolnay/macro._01__await_a_minute.html) by [David Tolnay](https://github.com/dtolnay) - Example code for moving from raw futures to async/await syntax to improve error handling, native control flow, and borrowing. 
+* [Await a minute](https://docs.rs/dtolnay/0.0.3/dtolnay/macro._01__await_a_minute.html) by [David Tolnay](https://github.com/dtolnay) - Example code for moving from raw futures to async/await syntax to improve error handling, native control flow, and borrowing.
 * [Taking string arguments in Rust](http://xion.io/post/code/rust-string-args.html) by [@Xion](https://github.com/Xion) - Discussing how to avoid subtle issues with string handling and when to use `str` (the string slice) and `String` (the owned/allocated string).
 * [Rust Patterns: Enums Instead Of Booleans](http://blakesmith.me/2019/05/07/rust-patterns-enums-instead-of-booleans.html) by [Blake Smith](https://github.com/blakesmith) - Discusses how using enums instead of booleans can be useful to express intent more clearly without sacrificing safety thanks to Rust's strong semantics (like exhaustive pattern matching).
- 
+
 ### 2018
 
 * [Programming an ARM microcontroller in Rust at four different levels of abstraction](https://pramode.in/2018/02/20/programming-a-microcontroller-in-rust-at-four-levels-of-abstraction/) by [Pramode C.E ](https://pramode.in/) - Demonstrates how Rust helps to move from brittle, low-level embedded code to high-level abstractions with zero cost.
@@ -104,7 +107,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ### 2019
 
-* Making Rust Delightful [[Video](https://www.youtube.com/watch?v=YSEx8wtlPWc)] by [@nrc](https://github.com/nrc/) - RustCon Asia 2019  
+* Making Rust Delightful [[Video](https://www.youtube.com/watch?v=YSEx8wtlPWc)] by [@nrc](https://github.com/nrc/) - RustCon Asia 2019
 
 ### 2018
 
@@ -112,7 +115,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ### 2017
 
-* Idiomatic Rust Libraries [[Video](https://www.youtube.com/watch?v=0zOg8_B71gE)] [[Slides](https://killercup.github.io/rustfest-idiomatic-libs/index.html#/)] by [@killercup](https://github.com/killercup) - Rustfest Kiev  
+* Idiomatic Rust Libraries [[Video](https://www.youtube.com/watch?v=0zOg8_B71gE)] [[Slides](https://killercup.github.io/rustfest-idiomatic-libs/index.html#/)] by [@killercup](https://github.com/killercup) - Rustfest Kiev
 * What's so hard about writing a Slack Client in Rust? [[Video](https://www.youtube.com/watch?v=rrtJh1kz1Ms)] [[Slides](https://speakerdeck.com/mre/whats-so-hard-about-writing-a-slack-client-in-rust)] by [@mre](https://github.com/mre) - Rust Cologne Meetup
 
 ## 💬 Forum
