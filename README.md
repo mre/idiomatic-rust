@@ -96,6 +96,10 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ## 🎤 Talks
 
+### 2023
+
+* Tricks of the Trait: Enabling Ergonomic Extractors [[Video](https://www.youtube.com/watch?v=7DOYtnCXucw)] by [Rob Ede](https://github.com/robjtede) - Rust Nation UK, Feb. 2023 
+
 ### 2022
 
 * Nine Rules for Elegant Rust Library APIs [[Video](https://www.youtube.com/watch?v=6-8-9ZV-2WQ)] by [Carl Kadie](https://www.linkedin.com/in/carlk/) - Seattle Rust Meetup, Sep. 2022
