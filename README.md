@@ -1,4 +1,4 @@
-![Logo](idiomatic-rust.png)
+![Logo](assets/cover.jpg)
 
 [![Check Links](https://github.com/mre/idiomatic-rust/workflows/Check%20Links/badge.svg)](https://github.com/mre/idiomatic-rust/actions/workflows/check_links.yml)
 
