@@ -41,6 +41,11 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ## 📰 Articles
 
+### 2023
+
+* [Compile-Time Invariants in Rust](https://corrode.dev/blog/compile-time-invariants/) by [corrode Rust consulting](https://corrode.dev) - Shows how macros can be used to enforce invariants at compile-time.
+* [Aim For Immutability in Rust](https://corrode.dev/blog/immutability/) by [corrode Rust consulting](https://corrode.dev) - Explains why variables are immutable in Rust by default.
+
 ### 2021
 
 * [Naming Your Lifetimes](https://www.possiblerust.com/pattern/naming-your-lifetimes) by [Possible Rust](https://www.possiblerust.com) - Explains how using longer, declarative lifetime names can help to disambiguate which borrow is which, and where it’s coming from.
