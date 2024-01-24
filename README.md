@@ -26,6 +26,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 * [PingCAP talent plan](https://github.com/pingcap/talent-plan) - A series of training courses about writing distributed systems in Rust. The courses primarily consist of projects where coding problems are presented, along with a partial implementation or API description, and a test suite.
 * [Procedural Macros Workshop](https://github.com/dtolnay/proc-macro-workshop) - This repo contains a selection of projects designed to learn to write Rust procedural macros — Rust code that generates Rust code.
 * [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - 🦀 Small exercises to get you used to reading and writing Rust code!
+* [Rust Development at Sentry](https://develop.sentry.dev/rust/) - A document that contains useful resources for getting started with Rust and adhering to the Sentry coding principles.
 
 ## 📖 Books
 
