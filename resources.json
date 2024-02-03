@@ -170,6 +170,22 @@
     "category": "workshop"
   },
   {
+    "title": "Hecto: Build your own text editor in Rust",
+    "url": "https://www.flenker.blog/hecto/",
+    "description": "This is a series of blog posts that shows you how to build a text editor in Rust",
+    "tags": [
+      "project",
+      "learning",
+    ],
+    "official": false,
+    "year": 2019,
+    "difficultyLevel": "all",
+    "duration": "variable",
+    "interactivityLevel": "high",
+    "free": true,
+    "category": "workshop"
+  },
+  {
     "title": "Build your own JIRA with Rust",
     "url": "https://github.com/LukeMathWalker/build-your-own-jira-with-rust/",
     "description": "A test-driven workshop to learn Rust by building your own JIRA clone!",
