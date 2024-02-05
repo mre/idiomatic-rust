@@ -175,7 +175,7 @@
     "description": "This is a series of blog posts that shows you how to build a text editor in Rust",
     "tags": [
       "project",
-      "learning",
+      "learning"
     ],
     "official": false,
     "year": 2019,

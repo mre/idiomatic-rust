@@ -7,17 +7,13 @@ See `CONTRIBUTING.md` for more information.
 
 [![Check Links](https://github.com/mre/idiomatic-rust/workflows/Check%20Links/badge.svg)](https://github.com/mre/idiomatic-rust/actions/workflows/check_links.yml)
 
-This repository collects resources for writing clean, idiomatic Rust code.
-You can find a sortable/searchable version of this list [here](https://corrode.dev/idiomatic-rust/).
-
+This repository collects resources for writing clean, idiomatic Rust code. [Please bring your own.](https://github.com/mre/idiomatic-rust/blob/master/CONTRIBUTING.md) :blush:
 
 > *Idiomatic* coding means following the conventions of a given language. It is
 > the most concise, convenient, and common way of accomplishing a task in that
 > language, rather than forcing it to work in a way the author is familiar with
 > from a different language. - Adapted from [Tim
 > Mansfield](https://github.com/tim-hr/stuff/wiki/Idiomatic-coding)
-
-Contributions welcome! To add missing resources, [please refer to the contributing documentation](https://github.com/mre/idiomatic-rust/blob/master/CONTRIBUTING.md).
 
 ## ⚙ Projects
 
@@ -36,6 +32,7 @@ Contributions welcome! To add missing resources, [please refer to the contributi
 * [Build your own JIRA with Rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust/) — A test-driven workshop to learn Rust by building your own JIRA clone!
 * [Comprehensive Rust](https://github.com/google/comprehensive-rust) — A four day Rust course developed by the Android team, covering all aspects of Rust.
 * [Ferrous Systems Teaching Material](https://ferrous-systems.github.io/teaching-material/index.html) — Free workshop material produced by Ferrous Systems for trainings.
+* [Hecto: Build your own text editor in Rust](https://www.flenker.blog/hecto/) — This is a series of blog posts that shows you how to build a text editor in Rust
 * [PingCAP talent plan](https://github.com/pingcap/talent-plan) — A series of training courses about writing distributed systems in Rust.
 * [Procedural Macros Workshop](https://github.com/dtolnay/proc-macro-workshop) — A selection of projects designed to learn to write Rust procedural macros.
 * [Rust 101](https://101-rs.tweede.golf/) — A Rust University course by tweede golf.
