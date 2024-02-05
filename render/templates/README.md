@@ -17,17 +17,17 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 
 ## ⚙ Projects
 {% for project in projects %}
-* [{{ project.title }}]({{ project.url }}) - {{ project.description }}
+* [{{ project.title }}]({{ project.url }}) — {{ project.description }}
 {%- endfor %}
 
 ## 🏋 Workshops
 {% for workshop in workshops %}
-* [{{ workshop.title }}]({{ workshop.url }}) - {{ workshop.description }}
+* [{{ workshop.title }}]({{ workshop.url }}) — {{ workshop.description }}
 {%- endfor %}
 
 ## 📖 Books
 {% for book in books %}
-* [{{ book.title }}]({{ book.url }}) - {{ book.description }}
+* [{{ book.title }}]({{ book.url }}) — {{ book.description }}
 {%- endfor %}
 
 ## 📰 Articles
@@ -35,7 +35,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 ### {{ year }}
 
 {% for resource in resources -%}
-* [{{ resource.title }}]({{ resource.url }}) - {{ resource.description }}
+* [{{ resource.title }}]({{ resource.url }}) — {{ resource.description }}
 {% endfor %}
 {%- endfor %}
 
@@ -44,7 +44,7 @@ This repository collects resources for writing clean, idiomatic Rust code. [Plea
 ### {{ year }}
 
 {% for resource in resources -%}
-* {{ resource.title }} - {{ resource.description }} [[Video]({{ resource.url }})]
+* {{ resource.title }} — {{ resource.description }} [[Video]({{ resource.url }})]
 {% endfor %}
 {%- endfor %}
 
