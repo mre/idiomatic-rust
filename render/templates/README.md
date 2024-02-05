@@ -7,13 +7,16 @@ See `CONTRIBUTING.md` for more information.
 
 [![Check Links](https://github.com/mre/idiomatic-rust/workflows/Check%20Links/badge.svg)](https://github.com/mre/idiomatic-rust/actions/workflows/check_links.yml)
 
-This repository collects resources for writing clean, idiomatic Rust code. [Please bring your own.](https://github.com/mre/idiomatic-rust/blob/master/CONTRIBUTING.md) :blush:
+This repository collects resources for writing clean, idiomatic Rust code.
+You can find a sortable/searchable version of this list [here](https://corrode.dev/idiomatic-rust/).
 
 > *Idiomatic* coding means following the conventions of a given language. It is
 > the most concise, convenient, and common way of accomplishing a task in that
 > language, rather than forcing it to work in a way the author is familiar with
 > from a different language. - Adapted from [Tim
 > Mansfield](https://github.com/tim-hr/stuff/wiki/Idiomatic-coding)
+
+Contributions welcome! To add missing resources, [please refer to the contributing documentation](https://github.com/mre/idiomatic-rust/blob/master/CONTRIBUTING.md).
 
 ## ⚙ Projects
 {% for project in projects %}
