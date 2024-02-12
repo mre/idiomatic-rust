@@ -34,7 +34,6 @@ impl TryFrom<String> for Tag {
     type Error = &'static str;
 
     fn try_from(value: String) -> Result<Self, Self::Error> {
-        println!("value: {:?}", value);
         if value.is_empty() {
             return Err("Tag cannot be empty");
         }
@@ -119,6 +118,7 @@ enum Category {
     Forum,
 }
 
+#[allow(dead_code)]
 #[derive(Debug, Deserialize, Clone)]
 struct Resource {
     title: String,

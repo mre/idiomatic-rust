@@ -36,6 +36,7 @@ Contributions welcome! To add missing resources, [please refer to the contributi
 * [Comprehensive Rust](https://github.com/google/comprehensive-rust) — A four day Rust course developed by the Android team, covering all aspects of Rust.
 * [Ferrous Systems Teaching Material](https://ferrous-systems.github.io/teaching-material/index.html) — Free workshop material produced by Ferrous Systems for trainings.
 * [Hecto: Build your own text editor in Rust](https://www.flenker.blog/hecto/) — This is a series of blog posts that shows you how to build a text editor in Rust
+* [Idiomatic Rust Workshop](https://fettblog.eu/slides/idiomatic-rust/) — A talk/workshop about idiomatic Rust code focusing on effective use of existing syntax and design patterns
 * [PingCAP talent plan](https://github.com/pingcap/talent-plan) — A series of training courses about writing distributed systems in Rust.
 * [Procedural Macros Workshop](https://github.com/dtolnay/proc-macro-workshop) — A selection of projects designed to learn to write Rust procedural macros.
 * [Rust 101](https://101-rs.tweede.golf/) — A Rust University course by tweede golf.

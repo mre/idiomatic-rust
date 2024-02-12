@@ -1181,5 +1181,22 @@
     "interactivityLevel": "low",
     "free": true,
     "category": "talk"
+  },
+  {
+    "title": "Idiomatic Rust Workshop",
+    "url": "https://fettblog.eu/slides/idiomatic-rust/",
+    "description": "A talk/workshop about idiomatic Rust code focusing on effective use of existing syntax and design patterns",
+    "tags": [
+      "tooling",
+      "syntax",
+      "design-patterns"
+    ],
+    "official": false,
+    "year": 2021,
+    "difficultyLevel": "beginner",
+    "duration": null,
+    "interactivityLevel": "low",
+    "free": true,
+    "category": "workshop"
   }
 ]
