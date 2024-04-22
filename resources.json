@@ -608,7 +608,7 @@
   },
   {
     "title": "Are out parameters idiomatic in Rust?",
-    "url": "https://steveklabnik.com/writing/are-out-paramters-idiomatic-in-rust",
+    "url": "https://steveklabnik.com/writing/are-out-parameters-idiomatic-in-rust",
     "description": "Discusses the pros and cons of functions returning a value vs. modifying a parameter in-place.",
     "tags": [
       "functions",
