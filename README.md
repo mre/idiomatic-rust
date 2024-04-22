@@ -170,4 +170,3 @@ The goal of this project is to create a peer-reviewed collection of articles/tal
 
 To the extent possible under law, [Matthias Endler](https://endler.dev) has waived all copyright and related or neighboring rights to this work.
 Logo adapted from [FreePik.com](https://www.freepik.com/free-vector/crabs-pattern-design_1093131.htm).
-
