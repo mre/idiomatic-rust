@@ -70,7 +70,7 @@ Contributions welcome! To add missing resources, [please refer to the contributi
 
 ### 2020
 
-* [Are out parameters idiomatic in Rust?](https://steveklabnik.com/writing/are-out-paramters-idiomatic-in-rust) — Discusses the pros and cons of functions returning a value vs. modifying a parameter in-place.
+* [Are out parameters idiomatic in Rust?](https://steveklabnik.com/writing/are-out-parameters-idiomatic-in-rust) — Discusses the pros and cons of functions returning a value vs. modifying a parameter in-place.
 * [Guide on how to write documentation for a Rust crate](https://blog.guillaume-gomez.fr/articles/2020-03-12+Guide+on+how+to+write+documentation+for+a+Rust+crate) — Writing good documentation with rustdoc including many examples.
 * [Learning Rust through open source and live code reviews](https://loige.co/learning-rust-through-open-source-and-live-code-reviews/) — Covers patterns like 'FromStr' and exposing a CLI and a library in one crate.
 * [Refactoring Rust Transpiled from C](https://immunant.com/blog/2020/09/transpiled_c_safety/) — Describes how to lift a C-project that was automatically converted to unsafe Rust to safer, more idiomatic Rust.
@@ -170,3 +170,4 @@ The goal of this project is to create a peer-reviewed collection of articles/tal
 
 To the extent possible under law, [Matthias Endler](https://endler.dev) has waived all copyright and related or neighboring rights to this work.
 Logo adapted from [FreePik.com](https://www.freepik.com/free-vector/crabs-pattern-design_1093131.htm).
+
