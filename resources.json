@@ -1198,5 +1198,21 @@
     "interactivityLevel": "low",
     "free": true,
     "category": "workshop"
+  },
+  {
+    "title": "Rust Number Conversion: Don't Follow the Book...",
+    "url": "https://blog.notmet.net/2021/12/rust-number-conversion-dont-follow-the-book.../",
+    "description": "A blog post discussing the best practices for number conversion in Rust.",
+    "tags": [
+      "number-conversion",
+      "best-practices"
+    ],
+    "official": false,
+    "year": 2021,
+    "difficultyLevel": "intermediate",
+    "duration": null,
+    "interactivityLevel": "low",
+    "free": true,
+    "category": "article"
   }
 ]

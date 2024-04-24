@@ -63,6 +63,7 @@ Contributions welcome! To add missing resources, [please refer to the contributi
 
 ### 2021
 
+* [Rust Number Conversion: Don't Follow the Book...](https://blog.notmet.net/2021/12/rust-number-conversion-dont-follow-the-book.../) — A blog post discussing the best practices for number conversion in Rust.
 * [Hexagonal architecture in Rust](https://alexis-lozano.com/hexagonal-architecture-in-rust-1/) — Describes how to build a Rust service using domain driven design and a test-first approach.
 * [Wrapping errors in Rust](https://edgarluque.com/blog/wrapping-errors-in-rust) — Wrapping 'reqwest::Error' and a custom error type as an enum to make library usage easier.
 * [Aiming for idiomatic Rust](https://web.archive.org/web/20221203043933/https://shane-o.dev/blog/aiming-for-idiomatic-rust) — Discusses different ways to solve a popular coding puzzle, 'balanced brackets', in Rust.
