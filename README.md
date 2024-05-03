@@ -145,7 +145,7 @@ Contributions welcome! To add missing resources, [please refer to the contributi
 
 ### 2017
 
-* Idiomatic Rust Libraries — Rustfest Kiev [[Video](https://www.youtube.com/watch?v=0zOg8_B71gE)]
+* Idiomatic Rust Libraries — Rustfest Kyiv [[Video](https://www.youtube.com/watch?v=0zOg8_B71gE)]
 
 
 ## 💬 Forum
