@@ -523,7 +523,7 @@
   },
   {
     "title": "Hexagonal architecture in Rust",
-    "url": "https://alexis-lozano.com/hexagonal-architecture-in-rust-1/",
+    "url": "https://alexis-lozano.com/blog/hexagonal-architecture-in-rust-1/",
     "description": "Describes how to build a Rust service using domain driven design and a test-first approach.",
     "tags": [
       "architecture",
