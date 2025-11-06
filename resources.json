@@ -506,7 +506,7 @@
   },
   {
     "title": "Wrapping errors in Rust",
-    "url": "https://edgarluque.com/blog/wrapping-errors-in-rust",
+    "url": "https://edgl.dev/blog/wrapping-errors-in-rust/",
     "description": "Wrapping 'reqwest::Error' and a custom error type as an enum to make library usage easier.",
     "tags": [
       "error-handling",
