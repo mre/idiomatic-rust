@@ -80,12 +80,12 @@ Contributions welcome! To add missing resources, [please refer to the contributi
 
 ## 📜 History
 
-Coming from Python, I loved the guidelines on how _idiomatic Python_ looks like. I was inspired by the likes of Peter Norvig, who wrote amazing articles on [spellcheckers](https://norvig.com/spell-correct.html) and [sudoku solvers](https://norvig.com/sudoku.html); and, of course, the [Zen of Python](https://www.python.org/dev/peps/pep-0020/). For Rust, there is no such thing as the Zen of Python, however, so I started collecting my own resources.
+Coming from Python, I loved the guidelines on how _idiomatic Python_ looks like. I was inspired by the likes of Peter Norvig, who wrote amazing articles on [spellcheckers](https://norvig.com/spell-correct.html) and [sudoku solvers](https://norvig.com/sudoku.html); and, of course, the [Zen of Python](https://peps.python.org/pep-0020/). For Rust, there is no such thing as the Zen of Python, however, so I started collecting my own resources.
 The goal of this project is to create a peer-reviewed collection of articles/talks/repos, which teach idiomatic Rust style. It's a community project and you can contribute.
 
 ## 🔏 License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Matthias Endler](https://endler.dev) has waived all copyright and related or neighboring rights to this work.
 Logo adapted from [FreePik.com](https://www.freepik.com/free-vector/crabs-pattern-design_1093131.htm).
