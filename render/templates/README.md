@@ -88,4 +88,4 @@ The goal of this project is to create a peer-reviewed collection of articles/tal
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Matthias Endler](https://endler.dev) has waived all copyright and related or neighboring rights to this work.
-Logo adapted from [FreePik.com](https://www.freepik.com/free-vector/crabs-pattern-design_1093131.htm).
+Logo adapted from [FreePik.com](https://www.freepik.com).
