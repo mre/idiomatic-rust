@@ -27,6 +27,8 @@ Contributions welcome! To add missing resources, [please refer to the contributi
 
 - [blessed.rs](https://blessed.rs/crates) — An unofficial guide to the Rust ecosystem. Suggestions for popular, well-maintained crates.
 
+- [Canonical's Rust Best Practices](https://canonical.github.io/rust-best-practices/) — A curated collection of best practices for writing Rust code, covering coding standards from naming conventions to unsafe code usage.
+
 - [cheats.rs - Idiomatic Rust tips](https://cheats.rs/) — A list of quick tips to make your code more idiomatic.
 
 - [clippy](https://github.com/rust-lang/rust-clippy) — A bunch of lints to catch common mistakes and improve your Rust code.

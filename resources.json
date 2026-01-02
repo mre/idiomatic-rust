@@ -26,6 +26,19 @@
     "category": "project"
   },
   {
+    "title": "Canonical's Rust Best Practices",
+    "url": "https://canonical.github.io/rust-best-practices/",
+    "description": "A curated collection of best practices for writing Rust code, covering coding standards from naming conventions to unsafe code usage.",
+    "tags": ["best-practices", "coding-standards", "guide"],
+    "official": true,
+    "year": 2025,
+    "difficultyLevel": "all",
+    "duration": null,
+    "interactivityLevel": "low",
+    "free": true,
+    "category": "project"
+  },
+  {
     "title": "cheats.rs - Idiomatic Rust tips",
     "url": "https://cheats.rs",
     "description": "A list of quick tips to make your code more idiomatic.",
