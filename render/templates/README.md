@@ -23,60 +23,54 @@ Contributions welcome! To add missing resources, [please refer to the contributi
 
 ## ⚙ Projects
 
-{% for project in projects %}
-
+{% for project in projects -%}
 - [{{ project.title }}]({{ project.url }}) — {{ project.description }}
-  {%- endfor %}
+{% endfor %}
 
 ## 🏋 Workshops
 
-{% for workshop in workshops %}
-
+{% for workshop in workshops -%}
 - [{{ workshop.title }}]({{ workshop.url }}) — {{ workshop.description }}
-  {%- endfor %}
+{% endfor %}
 
 ## 📖 Books
 
-{% for book in books %}
-
+{% for book in books -%}
 - [{{ book.title }}]({{ book.url }}) — {{ book.description }}
-  {%- endfor %}
+{% endfor %}
 
 ## 📰 Articles
 
-{% for (year, resources) in articles %}
+{% for (year, resources) in articles -%}
 
 ### {{ year }}
 
 {% for resource in resources -%}
-
 - [{{ resource.title }}]({{ resource.url }}) — {{ resource.description }}
-  {% endfor %}
-  {%- endfor %}
+{% endfor %}
+{%- endfor %}
 
 ## 🎤 Talks
 
-{% for (year, resources) in talks %}
+{% for (year, resources) in talks -%}
 
 ### {{ year }}
 
 {% for resource in resources -%}
-
 - {{ resource.title }} — {{ resource.description }} [[Video]({{ resource.url }})]
-  {% endfor %}
-  {%- endfor %}
+{% endfor %}
+{%- endfor %}
 
 ## 💬 Forum
 
-{% for (year, resources) in forum %}
+{% for (year, resources) in forum -%}
 
 ### {{ year }}
 
 {% for resource in resources -%}
-
 - [{{ resource.title }}]({{ resource.url }})
-  {% endfor %}
-  {%- endfor %}
+{% endfor %}
+{%- endfor %}
 
 ## 📜 History
 

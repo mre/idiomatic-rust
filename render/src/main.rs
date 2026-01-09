@@ -31,39 +31,50 @@ struct ReadmeTemplate {
 struct Tag(String);
 
 impl TryFrom<String> for Tag {
-    type Error = &'static str;
+    type Error = String;
 
     fn try_from(value: String) -> Result<Self, Self::Error> {
         if value.is_empty() {
-            return Err("Tag cannot be empty");
+            return Err("Tag cannot be empty".to_string());
         }
 
         if value.len() > 50 {
-            return Err("Tag cannot be longer than 50 characters");
+            return Err(format!(
+                "Tag '{value}' cannot be longer than 50 characters (length: {})",
+                value.len()
+            ));
         }
 
         if value.contains(|c: char| !c.is_ascii_lowercase() && c != '-') {
-            return Err("Tag can only contain lowercase ASCII characters");
+            return Err(format!(
+                "Tag '{value}' can only contain lowercase ASCII characters and hyphens"
+            ));
         }
 
         if value.contains(|c: char| c.is_ascii_digit()) {
-            return Err("Tag cannot contain numbers");
+            return Err(format!("Tag '{value}' cannot contain numbers"));
         }
 
         if value.contains(|c: char| !c.is_ascii() && c != '-') {
-            return Err("Tag can only contain ASCII characters and hyphens");
+            return Err(format!(
+                "Tag '{value}' can only contain ASCII characters and hyphens"
+            ));
         }
 
         if value.starts_with('-') || value.ends_with('-') {
-            return Err("Tag cannot start or end with a hyphen");
+            return Err(format!(
+                "Tag '{value}' cannot start or end with a hyphen"
+            ));
         }
 
         if value.contains("--") {
-            return Err("Tag cannot contain consecutive hyphens");
+            return Err(format!(
+                "Tag '{value}' cannot contain consecutive hyphens"
+            ));
         }
 
         if value.contains(char::is_whitespace) {
-            return Err("Tag cannot contain whitespace");
+            return Err(format!("Tag '{value}' cannot contain whitespace"));
         }
 
         Ok(Tag(value))
