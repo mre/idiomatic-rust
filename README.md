@@ -63,6 +63,17 @@ Contributions welcome! To add missing resources, [please refer to the contributi
 
 ## 📰 Articles
 
+### 2025
+
+- [Level Up your Rust pattern matching](https://blog.cuongle.dev/p/level-up-your-rust-pattern-matching) — Advanced pattern matching techniques and idiomatic usage.
+- [Be Simple](https://corrode.dev/blog/simple/) — Advocates for simpler, more maintainable code in Rust.
+- [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/) — Essential guide to avoiding pitfalls even in safe Rust code.
+- [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/) — Best practices for learning Rust and reducing adoption friction.
+- [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/) — Defensive coding in Rust with best practices.
+- [Prototyping in Rust](https://corrode.dev/blog/prototyping/) — Rapid development methodology and idiomatic practices showing how to prototype effectively in Rust.
+- [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust/) — Guide to cancellation safety in async Rust with patterns for resource management.
+- [To panic or not to panic](https://www.ncameron.org/blog/to-panic-or-not-to-panic/) — Error handling strategies and when panicking is appropriate versus returning Result types.
+- [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html) — Approaches to structuring error handling in library APIs for clarity and usability.
 ### 2024
 
 - [The Mediocre Programmer's Guide to Rust](https://www.hezmatt.org/~mpalmer/blog/2024/05/01/the-mediocre-programmers-guide-to-rust.html) — Practical Rust without perfectionism - a pragmatic development approach.
