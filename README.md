@@ -55,6 +55,7 @@ Contributions welcome! To add missing resources, [please refer to the contributi
 - [Command-Line Rust](https://github.com/kyclark/command-line-rust) — Learn the language by writing Rust versions of common Unix coreutils.
 - [Discover the world of microcontrollers through Rust!](https://docs.rust-embedded.org/discovery/) — An introductory course on microcontroller-based embedded systems using Rust.
 - [High Assurance Rust](https://highassurance.rs/) — Developing secure and robust software, focusing on embedded-friendly data structures in Rust.
+- [Idiomatic Rust Snippets](https://idiomatic-rust-snippets.org/) — Beginner-friendly guide to core Rust concepts—one of the best cheat sheets for Rust developers.
 - [Programming Rust: Fast, Safe Systems Development](https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/) — A comprehensive Rust Programming Guide that covers most of Rust's features in detail.
 - [Rust Atomics and Locks](https://marabos.nl/atomics/) — Helps Rust programmers of all levels gain a clear understanding of low-level concurrency.
 - [Rust Cookbook](https://github.com/rust-lang-nursery/rust-cookbook) — Examples that demonstrate good practices to accomplish common programming tasks in Rust.

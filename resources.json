@@ -299,6 +299,19 @@
     "category": "book"
   },
   {
+    "title": "Idiomatic Rust Snippets",
+    "url": "https://idiomatic-rust-snippets.org",
+    "description": "Beginner-friendly guide to core Rust concepts—one of the best cheat sheets for Rust developers.",
+    "tags": ["patterns", "idiomatic", "snippets"],
+    "official": false,
+    "year": 2025,
+    "difficultyLevel": "all",
+    "duration": null,
+    "interactivityLevel": "high",
+    "free": true,
+    "category": "book"
+  },
+  {
     "title": "Rust Cookbook",
     "url": "https://github.com/rust-lang-nursery/rust-cookbook",
     "description": "Examples that demonstrate good practices to accomplish common programming tasks in Rust.",
